@@ -1,1 +1,1 @@
-clang++ main.cpp -o hello.exe
+clang++ main.cpp -o ..\build\hello.exe

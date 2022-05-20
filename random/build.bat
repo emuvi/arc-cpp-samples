@@ -1,0 +1,1 @@
+clang++ main.cpp -o ..\build\random.exe
